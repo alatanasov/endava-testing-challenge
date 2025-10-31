@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d2df44f_002Da728_002D466d_002D87ed_002Ddb057ae786d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;RestAPITask&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="E:\Programs\RiderProjects\endava-testing-challenge" Presentation="&amp;lt;RestAPITask&amp;gt;" /&gt;&#xD;
+    &lt;ProjectFile&gt;5B9D35FC-919F-43E3-BF80-3A31D3602768/d:Tests/f:FirstTestScenario.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::5B9D35FC-919F-43E3-BF80-3A31D3602768::net9.0::SauceDemoTests.Tests.SauceDemoWorkflowTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

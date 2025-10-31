@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AFirst_002Ecs_002Fl_003AC_0021_003FUsers_003Falexa_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003Fbc14b6df5cd75368b65afefb4bd2493c9facd3bbb41af2b1d0eab7e8eee87dbf_003FFirst_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ANumericAssertionsBase_002Ecs_002Fl_003AC_0021_003FUsers_003Falexa_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003F324ca44ef243b99168db8a83dfd15e09e31afb0d0c3cce3f59df5612bc3a_003FNumericAssertionsBase_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=446604a6_002De90b_002D4173_002D95fa_002D148bf5f255db/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UserApiTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AB973427-1913-5128-4FAE-D9753EB7F20B::net9.0::RestApiTests.Tests.UserApiTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AB973427-1913-5128-4FAE-D9753EB7F20B::net9.0::RestApiTests.Tests.BaseApiTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
