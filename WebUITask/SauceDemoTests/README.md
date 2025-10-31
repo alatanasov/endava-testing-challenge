@@ -1,7 +1,7 @@
-# 🧪 SauceDemo Automated UI Testing Suite
-Automated Selenium tests for SauceDemo
- built with C#, NUnit, and ExtentReports.
-This project demonstrates a clean Page Object Model (POM) design, parallel test execution, configurable environments, browser control, and professional HTML reporting.
+# 🧪 SauceDemo UI Automation Suite
+End-to-end automated UI testing suite for the [SauceDemo](https://www.saucedemo.com/)
+ web application — developed as part of the Endava Testing Challenge.
+This project verifies user workflows, including login, cart management, checkout, sorting, and logout across multiple browsers and screen resolutions.
 
 ## ⚙️ Tech Stack:
 
@@ -77,8 +77,11 @@ You can also control the run using environment variables (read by BaseTest):
 Example: 
 
 setx TEST_ENVIRONMENT Testing
+
 setx TEST_BROWSER Firefox
+
 setx TEST_RESOLUTION 414x896
+
 
 ## 📊 Reporting
 
@@ -92,6 +95,7 @@ Location: ```\SauceDemoTests\TestResults```
 | ----------------------------------------- | ----------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | `VerifyCompleteOrderWithCartModification` | `CompletingOrder` | Checkout & Cart Management | Executes a complete purchase flow: logs in, adds and removes products, completes checkout, verifies successful order completion, and ensures the cart is empty afterward. | 🔴 High         |
 | `VerifyItemsAreSortedByPriceHighToLow`    | `ItemsSorting`    | Inventory & Sorting        | Validates that the “Price (High → Low)” sorting option correctly orders all products by price in descending order on the inventory page.                                  | 🟢 Low          |
+
 
 
 
