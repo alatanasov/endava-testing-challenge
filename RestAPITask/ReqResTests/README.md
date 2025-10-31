@@ -1,6 +1,6 @@
 ﻿# 🌐 ReqRes API Automation Suite
 
- Automated REST API test suite for the ReqRes
+ Automated REST API test suite for the [ReqRes](https://reqres.in/)
  public API — developed as part of the Endava Testing Challenge.
 This project validates CRUD operations and error handling across multiple endpoints.
 
